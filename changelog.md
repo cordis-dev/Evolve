@@ -1,3 +1,15 @@
+#### 0.4.24 - 7/10/2019 ####
+Thermomechanics upgrade for alloy production<br>
+Ziggurats unlockable via ancients upgrade<br>
+Cement factory has a more clear label in breakdown lists<br>
+
+#### 0.4.23 - 7/7/2019 ####
+Resources at the millions breakpoint and above are now shown with 2 significant decimal points<br>
+Reduced the creep cost of Observatory<br>
+Reduced the base knowledge cost of Observatory<br>
+Reduced the Brick cost of Boot Camps<br>
+Evil has been unleashed<br>
+
 #### 0.4.22 - 7/6/2019 ####
 Fixed issue with having exactly 251 Plasmids that would break your resources<br>
 Fixed issue with planet generation that caused it to always use the same seed<br>
